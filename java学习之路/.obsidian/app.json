@@ -1,0 +1,10 @@
+{
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./images",
+  "showInlineTitle": true,
+  "foldHeading": false,
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true
+}

@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "e72c4ae4a996b244",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f78310c7e3a9bc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "922c3614a9621648",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "源码学习/测试文档.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "693eb880b4108936",
+    "type": "split",
+    "children": [
+      {
+        "id": "602a2f43e24b2950",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2225aa0fd3b937f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a37f9a5c916e8f8d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2eaa4324c1747115",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "57aaf0edaf3b8137",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0f41aff7c1a7d5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bf7f1afafddcdfb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "源码学习/测试文档.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da3800c0da15a13f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "源码学习/测试文档.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8c8867efcc3ed04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "85d811f73c51848d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "源码学习/测试文档.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "922c3614a9621648",
+  "lastOpenFiles": [
+    "源码学习/images/测试文档_image_1.png",
+    "源码学习/images/测试文档_image_1.png",
+    "源码学习/测试文档.md",
+    "源码学习/images/Pasted image 20230827183036.png",
+    "源码学习/images",
+    "源码学习/Pasted image 20230827182931.png.md",
+    "Pasted image 20230827182931.png",
+    "源码学习"
+  ]
+}
